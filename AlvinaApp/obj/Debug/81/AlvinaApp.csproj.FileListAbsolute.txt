@@ -56,3 +56,6 @@ C:\Users\Alvina\source\repos\AlvinaApp\AlvinaApp\obj\Debug\81\linksrc\System.Ser
 C:\Users\Alvina\source\repos\AlvinaApp\AlvinaApp\obj\Debug\81\linksrc\Mono.Security.pdb
 C:\Users\Alvina\source\repos\AlvinaApp\AlvinaApp\obj\Debug\81\res\layout\layout_2.xml
 C:\Users\Alvina\source\repos\AlvinaApp\AlvinaApp\obj\Debug\81\android\assets\AlvinaApp.pdb
+C:\Users\Alvina\source\repos\AlvinaApp\AlvinaApp\obj\Debug\81\AlvinaApp.csprojAssemblyReference.cache
+C:\Users\Alvina\source\repos\AlvinaApp\AlvinaApp\obj\Debug\81\res\layout\splash_screen.xml
+C:\Users\Alvina\source\repos\AlvinaApp\AlvinaApp\obj\Debug\81\res\drawable\texture_splash.jpg
